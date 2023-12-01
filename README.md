@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Millan!
 - 👀 I’m interested in learning & getting more experience on React, JQuery, MongoDB, Java, REST API, and JSON.
 - 🌱 I’m currently learning full-stack Python in Coding Dojo and creating my own personal project.
-- 💞️ I’m looking to collaborate on creative projects that would extra my toolkit.
+- 💞️ I’m looking to collaborate on creative projects that would expand my toolkit.
 - 📫 How to reach me: My [Email](www.gmail.com/diego1millan@gmail.com) or my [Linkedin](https://www.linkedin.com/in/diegorm27/)
 
 <!---
