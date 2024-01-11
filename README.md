@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - **Database:** MySQL
 - **Frameworks:** Flask
 - **Tools:** Git, VS Code
-- **Other Interests:** Machine Learning. How can the current state of healthcare benefit from integrated machine learning and AI?
+- **Other Interests:** How to make very scalable appications on the backend that have the latest UI/UX principles & trends.
 
 ## 🌟 Current Project
 
