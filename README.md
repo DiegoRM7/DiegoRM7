@@ -3,6 +3,7 @@
 - 🌱 Recently graduated from Coding Dojo Bootcamp with a focus on full stack development while developing 2 solo projects and 1 group project.
 - 👀 I’m looking to collaborate on projects and for help with Networking and Junior Software Development career opportunities that would expand my toolkit.
 - 🧠 Currently practicing & getting more experience on React, Node.js, JQuery, MongoDB, Java, REST API, JSON, and Express.
+- 🚀 Current work: Personal Portfolio Website & researching deployment workflows.
 
 ## 📫 Lets connect
 - Email: [Diego1Millan@gmail.com](https://diego1millan@gmail.com)
