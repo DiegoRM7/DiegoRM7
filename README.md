@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 - **Languages:** Python, JavaScript
 - **Web Technologies:** HTML, CSS
 - **Database:** MySQL
-- **Frameworks:** Flask
-- **Tools:** Git, VS Code
+- **Frameworks:** Flask, DJango
+- **Tools:** Git, VS Code, GitHub
 - **Other Interests:** How to make very scalable appications on the backend that have the latest UI/UX principles & trends.
 
 ## 🌟 Current Project
