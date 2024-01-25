@@ -5,10 +5,6 @@
 - 🧠 Currently practicing & getting more experience on React, Node.js, JQuery, MongoDB, Java, REST API, JSON, and Express.
 - 🚀 Current work: Personal Portfolio Website & researching deployment workflows.
 
-## 📫 Lets connect
-- Email: [Diego1Millan@gmail.com](https://diego1millan@gmail.com)
-- LinkedIn: [www.LinkedIn.com/in/diegorm27/](https://www.linkedin.com/in/diegorm27/)
-
 <!---
 DiegoRM7/DiegoRM7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,3 +23,8 @@ You can click the Preview link to take a look at your changes.
 ### Habit Tracker
 - Competition based habit tracker. Users will choose between several different habit categories and in the future receive rewards based on the length of their tracking streaks.
 - https://github.com/DiegoRM7/Habit-Tracker-Group-Project
+
+
+## 📫 Lets connect
+- Email: [Diego1Millan@gmail.com](https://diego1millan@gmail.com)
+- LinkedIn: [www.LinkedIn.com/in/diegorm27/](https://www.linkedin.com/in/diegorm27/)
