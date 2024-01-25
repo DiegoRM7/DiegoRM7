@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 💻 Tech Stack
 
-- **Languages:** Python, JavaScript
+- **Languages:** Python, JavaScript, Jinja2, Java
 - **Web Technologies:** HTML, CSS
 - **Database:** MySQL
 - **Frameworks:** Flask, DJango
-- **Tools:** Git, VS Code, GitHub
+- **Tools:** Git, VS Code, GitHub, REST API, JSON, MySQL Workbench, Balsamiq, Heroku, Atlassian Trello, Atlassian Jira
 - **Other Interests:** How to make very scalable appications on the backend that have the latest UI/UX principles & trends.
 
 ## 🌟 Current Project
