@@ -27,12 +27,3 @@ You can click the Preview link to take a look at your changes.
 ### Habit Tracker
 - Competition based habit tracker. Users will choose between several different habit categories and in the future receive rewards based on the length of their tracking streaks.
 - https://github.com/DiegoRM7/Habit-Tracker-Group-Project
-
-Technology Stack:
-
-    Python
-    MySQL
-    Flask
-    CSS/HTML
-    Javascript
-    Bootstrap
