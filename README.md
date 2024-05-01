@@ -2,8 +2,8 @@
 - 👋 Hi, I’m Diego Millan!
 - 🌱 Recently graduated from Coding Dojo Bootcamp with a focus on full stack development while developing 2 solo projects and 1 group project.
 - 👀 I’m looking to collaborate on projects and for help with Networking and Junior Software Development career opportunities that would expand my toolkit.
-- 🧠 Currently practicing & getting more experience on React, Node.js, JQuery, MongoDB, Java, REST API, JSON, and Express.
-- 🚀 Current work: Personal Portfolio Website & researching deployment workflows.
+- 🧠 Currently practicing & getting more experience on React, Node.js, JQuery, MongoDB, Java, REST API, JSON, and Express.js.
+- 🚀 Current work: Personal Portfolio Website, researching deployment workflows, data-entry/admin work, and creating webflow websites for clients.
 
 <!---
 DiegoRM7/DiegoRM7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 💻 Tech Stack
 
-- **Languages:** Python, JavaScript, Java
+- **Languages:** Python, JavaScript, Java, SQL
 - **Web Technologies:** HTML, CSS
 - **Database:** MySQL
 - **Frameworks:** Flask, Django, AJAX , Bootstrap, OOP, Jinja2, React, JQuery
